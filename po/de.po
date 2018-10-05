@@ -13963,7 +13963,7 @@ msgid "Choose your remote buttons."
 msgstr "Wähle die Tasten deiner Fernbedienung."
 
 msgid "Enable Channellist Setup?"
-magstr "Aktiviere Kanallisten Einstellungen?"
+msgstr "Aktiviere Kanallisten Einstellungen?"
 
 msgid "Choose your Channel selection config."
 msgstr "Wähle deine Kanallisten Konfiguration."
